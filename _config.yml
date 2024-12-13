@@ -16,6 +16,7 @@ nav:
     position: left
     nav_order: 1
   - title: Game Design Department
+    url: /docs/game-design-department/
     position: left
     nav_order: 2
     parent: Home
