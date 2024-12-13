@@ -21,7 +21,7 @@ nav:
     parent: Home
     children:
       - title: Game Designer
-        url: /docs/game-designer.md
+        url: /docs/game-designer/
         nav_order: 3
         parent: Game Design Department
     
