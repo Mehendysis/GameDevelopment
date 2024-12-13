@@ -1,5 +1,5 @@
 ---
-title: A Comprehensive Guide to Game Development
+title: Home
 layout: home
 ---
 
