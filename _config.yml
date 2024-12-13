@@ -15,16 +15,17 @@ nav:
     url: /
     position: left
     nav_order: 1
-  - title: Game Design Department
-    url: /docs/game-design-department/
-    position: left
-    nav_order: 2
-    parent: Home
     children:
-      - title: Game Designer
-        url: /docs/game-designer/
-        nav_order: 3
-        parent: Game Design Department
+    - title: Game Design Department
+      url: /docs/game-design-department/
+      position: left
+      nav_order: 2
+      parent: Home
+      children:
+        - title: Game Designer
+          url: /docs/game-designer/
+          nav_order: 3
+          parent: Game Design Department
     
   # Add more pages as needed with proper titles and nav_order for sorting
   # - title: Level Designer
