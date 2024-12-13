@@ -1,7 +1,9 @@
 title: Game Dev Doc
 description: A comprehensive guide covering all aspects of game development, from design to deployment.
 theme: just-the-docs
+# Color scheme supports "light" (default) and "dark"
 color_scheme: dark
+
 
 url: https://mehendysis.github.io/GameDevelopment/
 
