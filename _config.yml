@@ -25,6 +25,11 @@ nav:
           url: /docs/game-designer/
           nav_order: 3
           parent: Game Design Department
+          children:
+          - title: Documentation
+            url: /docs/documentation/
+            nav_order: 5
+            parent: Game Designer
     
   # Add more pages as needed with proper titles and nav_order for sorting
   # - title: Level Designer
