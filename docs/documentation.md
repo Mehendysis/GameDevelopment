@@ -1,5 +1,5 @@
 ---
 title: Documentation
 parent: Game Designer
-nav_order: 5
+nav_order: 4
 ---
