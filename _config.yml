@@ -12,6 +12,7 @@ nav:
     url: /
     position: left
     nav_order: 3
+    children:
   - title: Game Design Department
     position: left
     nav_order: 2
@@ -75,13 +76,13 @@ nav:
   #       nav_order: 3
   #   nav_order: 5
 
-nav_external_links:
-  twitter: https://x.com/mehendysis
-  github: https://github.com/RallardM
-  facebook: https://www.facebook.com/Mehendysis/
-  instagram: https://www.instagram.com/mehendysis/
-  youtube: https://www.youtube.com/@Dreaven.Mehendysis
-  twitch: https://www.twitch.tv/thedreavens
-  tiktok: https://www.tiktok.com/@dreavenmehendysis
-  patreon: https://www.patreon.com/Mehendysis
-  discord: https://discord.gg/DWA87gV
+#nav_external_links:
+#  twitter: https://x.com/mehendysis
+#  github: https://github.com/RallardM
+#  facebook: https://www.facebook.com/Mehendysis/
+#  instagram: https://www.instagram.com/mehendysis/
+#  youtube: https://www.youtube.com/@Dreaven.Mehendysis
+#  twitch: https://www.twitch.tv/thedreavens
+#  tiktok: https://www.tiktok.com/@dreavenmehendysis
+#  patreon: https://www.patreon.com/Mehendysis
+#  discord: https://discord.gg/DWA87gV
