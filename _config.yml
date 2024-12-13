@@ -13,7 +13,6 @@ nav:
     position: left
     nav_order: 1
   - title: Game Design Department
-    url: /docs/game-design-deoartmen.md
     position: left
     nav_order: 2
     children:
