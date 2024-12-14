@@ -1,12 +1,9 @@
 title: Game Dev Doc
 description: A comprehensive guide covering all aspects of game development, from design to deployment.
 theme: just-the-docs
-# Color scheme supports "light" (default) and "dark"
 color_scheme: dark
-nav_enabled: true
-heading_anchors: true
-
-url: https://mehendysis.github.io/GameDevelopment/
+url: "https://mehendysis.github.io/GameDevelopment/"
+baseurl: "/GameDevelopment"
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
@@ -18,18 +15,14 @@ nav:
     nav_order: 1
     children:
       - title: Game Design Department
-        position: left
         nav_order: 2
-        parent: Home
         children:
           - title: Game Designer
             nav_order: 3
-            parent: Game Design Department
             children:
               - title: Documentation
-                url: /docs/documentation.md
+                url: /docs/documentation/
                 nav_order: 4
-                parent: Game Designer
     
   # Add more pages as needed with proper titles and nav_order for sorting
   # - title: Level Designer
