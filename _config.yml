@@ -19,21 +19,21 @@ nav:
     nav_order: 1
     children:
         - title: Game Design Department
-        url: /game-design-department
+        url: /game-design-department/
         nav_enabled: false
         position: left
         nav_order: 2
         parent: Home
         children:
             - title: Game Designer
-            url: /game-design-department/game-designer
+            url: /game-design-department/game-designer/
             nav_enabled: false
             nav_order: 3
             parent: Game Design Department
             children:
                 - title: Documentation
-                url: /game-design-department/game-designer/documentation
-                nav_enabled: false
+                url: /game-design-department/game-designer/documentation.md
+                nav_enabled: true
                 url: /docs/documentation.md
                 nav_order: 4
                 parent: Game Designer
