@@ -1,0 +1,10 @@
+<div class="lang-switcher">
+    {% for lang in site.languages %}
+      {% if lang == site.default_lang %}
+        <a href="{{ site.baseurl }}/">{{ lang }}</a>
+      {% else %}
+        <a href="{{ site.baseurl }}/{{ lang }}/">{{ lang }}</a>
+      {% endif %}
+    {% endfor %}
+  </div>
+  

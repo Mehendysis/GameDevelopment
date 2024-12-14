@@ -8,22 +8,64 @@ baseurl: "/GameDevelopment"
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
 
-permalink: pretty
+  # Add more pages as needed with proper titles and nav_order for sorting
+  # - title: Level Designer
+  #   url: /docs/level-designer/
+  #   nav_order: 2
+  # Uncomment and add more sections if necessary
+  # - title: Art Department
+  #   children:
+  #     - title: 2D
+  #       children:
+  #         - title: Concept Artist
+  #           url: /docs/concept-artist/
+  #           nav_order: 1
+  #         - title: Texture Material Artist
+  #           url: /docs/texture-material-artist/
+  #           nav_order: 2
+  #       nav_order: 1
+  #     - title: 3D
+  #       children:
+  #         - title: Character Artist
+  #           url: /docs/character-artist/
+  #           nav_order: 1
+  #         - title: Prop Artist
+  #           url: /docs/prop-artist/
+  #           nav_order: 2
+  #       nav_order: 2
+  #     - title: Animations
+  #       children:
+  #         - title: Animator
+  #           url: /docs/animator/
+  #           nav_order: 1
+  #         - title: FX Artist
+  #           url: /docs/fx-artist/
+  #           nav_order: 2
+  #       nav_order: 3
+  #     - title: Audio
+  #       children:
+  #         - title: Sound Designer
+  #           url: /docs/sound-designer/
+  #           nav_order: 1
+  #         - title: Compositor
+  #           url: /docs/compositor/
+  #           nav_order: 2
+  #       nav_order: 4
+  # - title: Programming Department
+  #   children:
+  #     - title: Game/Gameplay Programmer
+  #       url: /docs/game-gameplay-programmer/
+  #       nav_order: 1
+  #     - title: AI Programmer
+  #       url: /docs/ai-programmer/
+  #       nav_order: 2
+  #     - title: Shader Programmer
+  #       url: /docs/shader-programmer/
+  #       nav_order: 3
+  #   nav_order: 5
 
-defaults:
-  - scope:
-      path: "docs" # an empty string here means all files in the project
-      type: "pages"
-    values:
-      layout: "default"
-    
-# keep the nav menu always open
-nav_menu_open: true
-  
-
-nav_external_links:
-
-#   x: "https://twitter.com/mehendysis"
+#nav_external_links:
+#  twitter: https://x.com/mehendysis
 #  github: https://github.com/RallardM
 #  facebook: https://www.facebook.com/Mehendysis/
 #  instagram: https://www.instagram.com/mehendysis/
@@ -80,16 +122,15 @@ back_to_top_text: "Back to top"
 last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
 last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
 
+footer_content: 'Copyright &copy; 2017-2020 Patrick Marsceill. Distributed by an <a href="https://github.com/just-the-docs/just-the-docs/tree/main/LICENSE.txt">MIT license.</a> <a href="https://www.netlify.com/">This site is powered by Netlify.</a>'
 
 # Footer "Edit this page on GitHub" link text
 gh_edit_link: true # show or hide edit this page link
 gh_edit_link_text: "Edit this page on GitHub"
-gh_edit_repository: "https://github.com/Mehendysis/GameDevelopment" # the github URL for your repo
+gh_edit_repository: "https://github.com/just-the-docs/just-the-docs" # the github URL for your repo
 gh_edit_branch: "main" # the branch that your docs is served from
 # gh_edit_source: docs # the source that your files originate from
 gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
-
-footer_content: 'Copyright &copy; Mehemdysis. Distributed by an <a href="https://github.com/Mehendysis/GameDevelopment/blob/main/LICENSE">MIT license.</a> <a href="https://www.netlify.com/">This site is powered by Netlify.</a>'
 
 callouts_level: quiet # or loud
 callouts:
@@ -107,6 +148,12 @@ callouts:
   warning:
     title: Warning
     color: red
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-github-metadata
+  - jekyll-include-cache
+  - jekyll-sitemap
 
 kramdown:
   syntax_highlighter_opts:

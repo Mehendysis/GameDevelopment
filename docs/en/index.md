@@ -2,6 +2,7 @@
 title: Home
 layout: home
 nav_order: 1
+lang: en
 ---
 
 # A Comprehensive Guide to Game Development
