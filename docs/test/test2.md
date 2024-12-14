@@ -1,5 +1,5 @@
 ---
 title: Test2
-parent: Home
+parent: Test
 nav_order: 3
 ---
