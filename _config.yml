@@ -4,6 +4,7 @@ theme: just-the-docs
 # Color scheme supports "light" (default) and "dark"
 color_scheme: dark
 nav_enabled: true
+heading_anchors: true
 
 url: https://mehendysis.github.io/GameDevelopment/
 
