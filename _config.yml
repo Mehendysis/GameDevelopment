@@ -14,19 +14,26 @@ aux_links:
 nav:
   - title: Home
     url: /
+    nav_enabled: false
     position: left
     nav_order: 1
     children:
-      - title: Game Design Department
+        - title: Game Design Department
+        url: /game-design-department
+        nav_enabled: false
         position: left
         nav_order: 2
         parent: Home
         children:
-          - title: Game Designer
+            - title: Game Designer
+            url: /game-design-department/game-designer
+            nav_enabled: false
             nav_order: 3
             parent: Game Design Department
             children:
-              - title: Documentation
+                - title: Documentation
+                url: /game-design-department/game-designer/documentation
+                nav_enabled: false
                 url: /docs/documentation.md
                 nav_order: 4
                 parent: Game Designer
