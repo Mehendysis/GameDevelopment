@@ -28,7 +28,7 @@ nav:
           parent: Game Design Department
           children:
           - title: Documentation
-            url: /docs/documentation/
+            url: /docs/documentation.md
             nav_order: 4
             parent: Game Designer
     
