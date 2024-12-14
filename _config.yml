@@ -34,6 +34,11 @@ nav:
     position: left
     nav_order: 2
     parent: Home
+        - title: Game Designer
+          url: /docs/Test/Test2/
+          nav_order: 3
+          parent: Test
+          
     
   # Add more pages as needed with proper titles and nav_order for sorting
   # - title: Level Designer
