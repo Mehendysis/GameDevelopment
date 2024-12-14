@@ -2,6 +2,7 @@
 title: Documentation
 parent: Game Designer
 nav_order: 4
+nav_enabled: true
 ---
 
 # Documentation
