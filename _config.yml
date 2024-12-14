@@ -17,17 +17,18 @@ nav:
     position: left
     nav_order: 1
     children:
-    - title: Game Design Department
+      - title: Game Design Department
+      url: /
       position: left
       nav_order: 2
       parent: Home
       children:
-        - title: Game Designer
-          url: /docs/game-designer/
+          - title: Game Designer
+          url: /
           nav_order: 3
           parent: Game Design Department
           children:
-          - title: Documentation
+            - title: Documentation
             url: /docs/documentation.md
             nav_order: 4
             parent: Game Designer
