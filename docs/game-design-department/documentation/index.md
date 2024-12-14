@@ -1,8 +1,7 @@
 ---
 title: Documentation
-parent: Game Designer
-nav_order: 4
-nav_enabled: true
+parent: Game Design Department
+nav_order: 3
 ---
 
 # Documentation
@@ -52,3 +51,5 @@ Game Development Documentation (GDD) is a comprehensive collection of design pla
 ---
 
 Feel free to navigate the other sections for more details on game design principles and workflows!
+
+## Game Design Department
