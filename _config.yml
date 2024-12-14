@@ -3,7 +3,7 @@ description: A comprehensive guide covering all aspects of game development, fro
 theme: just-the-docs
 # Color scheme supports "light" (default) and "dark"
 color_scheme: dark
-
+nav_enabled: true
 
 url: https://mehendysis.github.io/GameDevelopment/
 
