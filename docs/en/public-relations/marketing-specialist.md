@@ -3,6 +3,7 @@ title: Marketing Specialist
 parent: Public Relations  
 nav_order: 1  
 permalink: /marketing-specialist/  
+last_modified_date: Dec 15 2024 at 11:13 AM
 ---
 
 # Marketing Specialist  
@@ -13,7 +14,7 @@ A **Marketing Specialist** plays a crucial role in ensuring your game reaches it
 
 [**Market Research**](#market-research)
 - Identify your target audience and analyze competitors to understand trends and preferences. 
-- [***Market Research Tools***](#tools-for-market-research)
+- [***Market Research Tools***](#market-research-tools)
 
 **Content Creation**
 - Develop promotional materials such as trailers, screenshots, blog posts, and dev diaries.  
@@ -30,9 +31,7 @@ A **Marketing Specialist** plays a crucial role in ensuring your game reaches it
 **Monetization Strategies**
    - Plan and optimize pricing models, discounts, and launch sales to maximize revenue.  
 
-
 ---
-
 
 ## Market Research  
 
@@ -53,21 +52,32 @@ Market research is the foundation of any successful marketing strategy, especial
    - Stay updated on trends within your genre or niche. Are there particular themes, mechanics, or art styles gaining popularity?  
    - Consider the broader gaming landscape. For instance, new technologies like VR/AR, cloud gaming, or blockchain may open opportunities or challenges.  
 
-## Tools for Market Research
+## Market Research Tools
 
 ##### PC Games Market Research Tools
 - [**SteamDB**](https://steamdb.info/): Gives an insight into the Steam platform and everything in its database.
 - [**SteamCharts**](https://steamcharts.com/):  An ongoing analysis of Steam's concurrent players.
-- [**SteamSpy**](https://steamspy.com/):  
+- [**SteamSpy**](https://steamspy.com/):  Data and stats about Steam games.
+- [**VG Insights**](https://vginsights.com/):  For developers, publishers and anyone interested in video game market research.
+- [**SteamSpy**](https://app.ludo.ai/trends):  
+- [**SteamSpy**](https://gamalytic.com/):  
+- [**SteamSpy**](https://games-stats.com/):  
+- [**SteamSpy**](https://www.twitchmetrics.net/):  
+- [**SteamSpy**](https://steam-revenue-calculator.com/):  
 
 ##### Other Free and Low-Cost Tools  
    - **Google Trends**: Identify the popularity of specific keywords related to your game.  
-   - **Steam Charts**: Analyze the performance of similar games on Steam.  
    - **Itch.io Analytics**: Review what’s trending in indie game marketplaces.  
    - **Reddit and Discord**: Engage with gaming communities to gather feedback and observe discussions.  
    - **Social Media Listening Tools**: Tools like Hootsuite (free version) or TweetDeck can help track conversations around specific games or genres.  
 
 ##### Advanced Tools (Budget-Permitting)  
+   - [**SteamSpy**](https://navigator.solsten.io/):  
+   - [**SteamSpy**](https://www.data.ai/):  
+   - [**SteamSpy**](https://newzoo.com/):  
+   - [**SteamSpy**](https://gameanalytics.com/):  
+   - [**SteamSpy**](https://sensortower.com/):  
+   - [**SteamSpy**](https://www.gamerefinery.com/):  
    - **Sensor Tower**: Provides insights into mobile game performance, including downloads and revenue estimates.  
    - **App Annie**: Tracks app trends across platforms for mobile-focused games.  
    - **SEMrush or Ahrefs**: Useful for keyword research and competitive analysis in online search results.  
@@ -76,3 +86,5 @@ Market research is the foundation of any successful marketing strategy, especial
 #### **Industry Reports and Data**  
    - Check industry reports from sources like Newzoo or Statista for global gaming market trends.  
    - Indie game-specific reports, such as those from Gamasutra or GameDiscoverCo, can provide tailored insights for small studios.  
+
+   
