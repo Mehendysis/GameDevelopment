@@ -25,4 +25,8 @@ We invite the community to contribute! Your insights—whether as a seasoned dev
 
 Start exploring and level up your game development journey! 🚀  
 
-# [View On Github.io](https://mehendysis.github.io/GameDevelopment/)
+<div align="center">
+
+## 🌐 [View On Github.io](https://mehendysis.github.io/GameDevelopment/)
+
+</div>
