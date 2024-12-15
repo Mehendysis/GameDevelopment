@@ -5,9 +5,6 @@ color_scheme: dark
 url: "https://mehendysis.github.io/GameDevelopment/"
 baseurl: "/GameDevelopment"
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
-
 permalink: pretty
 
 defaults:
@@ -18,20 +15,26 @@ defaults:
       layout: "default"
     
 # keep the nav menu always open
-nav_menu_open: true
-  
-
-nav_external_links:
-
-#   x: "https://twitter.com/mehendysis"
-#  github: https://github.com/RallardM
-#  facebook: https://www.facebook.com/Mehendysis/
-#  instagram: https://www.instagram.com/mehendysis/
-#  youtube: https://www.youtube.com/@Dreaven.Mehendysis
-#  twitch: https://www.twitch.tv/thedreavens
-#  tiktok: https://www.tiktok.com/@dreavenmehendysis
-#  patreon: https://www.patreon.com/Mehendysis
-#  discord: https://discord.gg/DWA87gV
+# nav_menu_open: true
+# nav_external_links:
+#   - title: <i class="fab fa-x-twitter"></i>
+#     url: https://twitter.com/mehendysis
+#   - title: <i class="fab fa-github"></i>
+#     url: https://github.com/RallardM
+#   - title: <i class="fab fa-facebook"></i>
+#     url: https://www.facebook.com/Mehendysis/
+#   - title: <i class="fab fa-instagram"></i>
+#     url: https://www.instagram.com/mehendysis/
+#   - title: <i class="fab fa-youtube"></i>
+#     url: https://www.youtube.com/@Dreaven.Mehendysis
+#   - title: <i class="fab fa-twitch"></i>
+#     url: https://www.twitch.tv/thedreavens
+#   - title: <i class="fab fa-tiktok"></i>
+#     url: https://www.tiktok.com/@dreavenmehendysis
+#   - title: <i class="fab fa-patreon"></i>
+#     url: https://www.patreon.com/Mehendysis
+#   - title: <i class="fab fa-discord"></i>
+#     url: https://discord.gg/DWA87gV
 
 # Enable or disable the site search
 # Supports true (default) or false

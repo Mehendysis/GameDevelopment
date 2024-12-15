@@ -1,5 +1,5 @@
 ---
 title: Game Design Department
-parent: Home
-nav_order: 2
+parent: English
+nav_order: 3
 ---

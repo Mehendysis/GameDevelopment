@@ -1,7 +1,7 @@
 ---
 title: Documentation
-parent: Game Design Department
-nav_order: 3
+parent: Game Designer
+nav_order: 5
 ---
 
 # Documentation

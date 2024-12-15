@@ -1,5 +1,5 @@
 ---
 title: Game Design Document
 parent: Documentation
-nav_order: 4
+nav_order: 1
 ---
