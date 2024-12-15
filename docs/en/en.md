@@ -1,7 +1,8 @@
 ---
 title: English
-parent: Welcome / Bienvenue
+layout: home
 permalink: /en/
-nav_order: 2
+last_modified_date: Dec 15 2024 at 11:13 AM
+nav_order: 3
 ---
 

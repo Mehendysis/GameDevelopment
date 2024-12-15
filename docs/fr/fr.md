@@ -1,6 +1,7 @@
 ---
 title: Fraçais
-parent: Welcome / Bienvenue
+layout: home
 permalink: /fr/
-nav_order: 1
+last_modified_date: Dec 15 2024 at 11:13 AM
+nav_order: 2
 ---
