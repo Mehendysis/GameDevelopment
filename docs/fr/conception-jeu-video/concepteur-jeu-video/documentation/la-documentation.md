@@ -1,6 +1,6 @@
 ---
-title: Documentation
-parent: Game Designer
+title: La Documentation
+parent: Concepteur de Jeux Vidéo
 nav_order: 5
 ---
 

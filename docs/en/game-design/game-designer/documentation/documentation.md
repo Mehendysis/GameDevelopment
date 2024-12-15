@@ -1,7 +1,8 @@
 ---
-title: La Documentation
-parent: Concepteur de Jeu
+title: Documentation
+parent: Game Designer
 nav_order: 5
+permalink: /en/public-relation-department/game-design-department/game-designer/documentation/
 ---
 
 # Documentation
