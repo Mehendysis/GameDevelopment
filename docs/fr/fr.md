@@ -1,9 +1,9 @@
 ---
-title: Fraçais
+title: Français
 layout: home
 permalink: /fr/
 last_modified_date: Dec 15 2024 at 11:13 AM
-nav_order: 2
+nav_order: 3
 ---
 
 # Bienvenue

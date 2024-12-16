@@ -12,17 +12,11 @@ Embarking on game development can feel overwhelming, but breaking it into manage
 
 ## Steps to Develop a Game  
 
- **Market Analysis**  
-   - This first step ensures your game concept aligns with audience expectations and market demand.  
-[Learn more about Market Analysis here](#market-analysis).  
+[Market Analysis](#market-analysis) Aligning your game with audience expectations and market demand.  
 
- **Conceptualization**  
-   - Brainstorm and refine your game idea, focusing on its unique selling points (USPs) and core mechanics.  
+[Starting Your GDD](#starting-your-gdd) Outlining gameplay mechanics, story, art direction, and technical requirements.  
 
- **Game Design Document (GDD)**  
-   - Create a comprehensive document outlining gameplay mechanics, story, art direction, and technical requirements.  
-
- **Prototyping**  
+ <!-- **Prototyping**  
    - Build a basic version of your game to test key mechanics and ensure your concept is viable.  
 
  **Marketing and Community Building**  
@@ -38,7 +32,7 @@ Embarking on game development can feel overwhelming, but breaking it into manage
    - Finalize the game, address bugs, and prepare for distribution by coordinating platforms and marketing campaigns.  
 
  **Post-Launch Support**  
-   - Maintain and update your game after release by fixing bugs, adding content, and engaging with your community.  
+   - Maintain and update your game after release by fixing bugs, adding content, and engaging with your community.   -->
 
 ---
 
@@ -49,7 +43,6 @@ Market analysis is a vital first step in game development. It helps you understa
 This section also covers how to define your game’s scope based on your team’s size and resources. Aspiring game developers should stay open to adjusting their ideas and embracing smaller, achievable projects. If you truly love making games, you’ll want to take your time. Going straight for your big idea is like taking the fast-food approach. It satisfies your hunger quickly but misses the deeper satisfaction that comes from careful, deliberate creation.  
 
 ---
-
 
 ### Tools and Resources  
 
@@ -78,7 +71,7 @@ Visit his social media addresses:
 While learning from experts like **Chris Zukowski** is invaluable, you’ll also need to develop the ability to make independent observations and conduct your own research. Each tool offers unique insights, but it’s up to you to analyze the data and draw conclusions that align with your game’s vision and goals.  
 
 
-##### Defining Your Scope  
+<!-- ##### Defining Your Scope  
 - **Know Your Resources**: Assess your team size, skills, and available time.  
 - **Setting Realistic Goals**: Start with a manageable project to build experience and avoid burnout.  
 - **How to Stay Within Scope**: Use project management tools like Trello or Notion to prioritize features and track progress.  
@@ -106,4 +99,8 @@ While learning from experts like **Chris Zukowski** is invaluable, you’ll also
 ##### Anticipating Challenges and Risks  
 - **Identifying Potential Pitfalls**: Look for areas where your concept might overreach, alienate audiences, or struggle technically.  
 - **How to Prepare**: Break down risks into manageable parts and create contingency plans.  
-- **Mitigating Challenges**: Focus on iterative development and collect feedback early in the process.  
+- **Mitigating Challenges**: Focus on iterative development and collect feedback early in the process.   -->
+
+---
+
+## Starting Your GDD

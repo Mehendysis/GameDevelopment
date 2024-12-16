@@ -53,5 +53,3 @@ Game Development Documentation (GDD) is a comprehensive collection of design pla
 ---
 
 Feel free to navigate the other sections for more details on game design principles and workflows!
-
-## Game Design Department
