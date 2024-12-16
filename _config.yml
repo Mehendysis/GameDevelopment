@@ -4,8 +4,8 @@ theme: just-the-docs
 color_scheme: dark
 url: "https://mehendysis.github.io/GameDevelopment/"
 baseurl: "/GameDevelopment"
-
 permalink: pretty
+favicon_ico: "/assets/images/favicon.ico"
 
 defaults:
   - scope:

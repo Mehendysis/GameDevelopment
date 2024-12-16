@@ -54,16 +54,34 @@ Market research is the foundation of any successful marketing strategy, especial
 
 ## Market Research Tools
 
-##### PC Games Market Research Tools
+##### PC Games Analytics Tools
 - [**SteamDB**](https://steamdb.info/): Gives an insight into the Steam platform and everything in its database.
-- [**SteamCharts**](https://steamcharts.com/):  An ongoing analysis of Steam's concurrent players.
-- [**SteamSpy**](https://steamspy.com/):  Data and stats about Steam games.
-- [**VG Insights**](https://vginsights.com/):  For developers, publishers and anyone interested in video game market research.
-- [**SteamSpy**](https://app.ludo.ai/trends):  
-- [**SteamSpy**](https://gamalytic.com/):  
-- [**SteamSpy**](https://games-stats.com/):  
-- [**SteamSpy**](https://www.twitchmetrics.net/):  
-- [**SteamSpy**](https://steam-revenue-calculator.com/):  
+- [**SteamCharts**](https://steamcharts.com/): An ongoing analysis of Steam's concurrent players.
+- [**SteamSpy**](https://steamspy.com/): Data and stats about Steam games.
+- [**VG Insights**](https://vginsights.com/): For developers, publishers and anyone interested in video game market research.
+- [**Ludo AI**](https://app.ludo.ai/trends): AI Partner for Game Design and Market Research.
+- [**Gamalytic**](https://gamalytic.com/): A database of 50,000+ Steam games with estimated revenue, sales, player data and more. 
+- [**Video Game Industry Statistics and Facts**](https://games-stats.com/): Trending Upcoming Games.
+- 
+- [**Steam Revenue Calculator**](https://steam-revenue-calculator.com/): Using the Boxleiter method we can use the number of review a game has on Steam to estimate the number of owners.
+
+##### Streaming Analytics Tools
+- [**Twitchmetrics**](https://www.twitchmetrics.net/): Insights about Twitch activity. Such as most streamed games.
+
+##### Advanced Tools (Budget-Permitting)  
+   - [**Navigator by Solsten**](https://navigator.solsten.io/): Explores who likes any brand, interest, or product.
+   - [**Data.ai**](https://www.data.ai/): Compares apps in the market against a large set of metrics to identify trends
+   - [**Newzoo**](https://newzoo.com/): Title-level engagement and revenue data for thousands of PC, Xbox, PlayStation, and Nintendo Switch games.
+   - [**GameAnalytics**](https://gameanalytics.com/): Analytics tool for game developers, providing insights for more than 100k games, and ⅓ of the world's mobile players.
+   - [**Sensor Tower**](https://sensortower.com/): Provides insights into mobile game performance, including downloads and revenue estimates. 
+   - [**GameRefinery**](https://www.gamerefinery.com/): Game development research on mobile game genres & features, and player motivations.
+
+## Wider Markets Tools
+
+##### Advanced Tools (Budget-Permitting)  
+   - [**Semrush**](https://www.semrush.com/): Keyword research, competitive analysis, site audits, backlink tracking, and comprehensive online visibility insights.
+   - [**Ahrefs**](https://ahrefs.com/): Used to analyze a website's link profile, keyword rankings, and SEO health. 
+
 
 ##### Other Free and Low-Cost Tools  
    - **Google Trends**: Identify the popularity of specific keywords related to your game.  
@@ -71,20 +89,9 @@ Market research is the foundation of any successful marketing strategy, especial
    - **Reddit and Discord**: Engage with gaming communities to gather feedback and observe discussions.  
    - **Social Media Listening Tools**: Tools like Hootsuite (free version) or TweetDeck can help track conversations around specific games or genres.  
 
-##### Advanced Tools (Budget-Permitting)  
-   - [**SteamSpy**](https://navigator.solsten.io/):  
-   - [**SteamSpy**](https://www.data.ai/):  
-   - [**SteamSpy**](https://newzoo.com/):  
-   - [**SteamSpy**](https://gameanalytics.com/):  
-   - [**SteamSpy**](https://sensortower.com/):  
-   - [**SteamSpy**](https://www.gamerefinery.com/):  
-   - **Sensor Tower**: Provides insights into mobile game performance, including downloads and revenue estimates.  
-   - **App Annie**: Tracks app trends across platforms for mobile-focused games.  
-   - **SEMrush or Ahrefs**: Useful for keyword research and competitive analysis in online search results.  
-   - **Survey Tools**: Tools like SurveyMonkey or Google Forms for direct audience feedback.  
-
 #### **Industry Reports and Data**  
    - Check industry reports from sources like Newzoo or Statista for global gaming market trends.  
    - Indie game-specific reports, such as those from Gamasutra or GameDiscoverCo, can provide tailored insights for small studios.  
 
-   
+##### Survey Tools
+   - **Survey Tools**: Tools like SurveyMonkey or Google Forms for direct audience feedback.  

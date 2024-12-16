@@ -2,7 +2,7 @@
 title: Documentation
 parent: Game Designer
 nav_order: 5
-permalink: /en/public-relation-department/game-design-department/game-designer/documentation/
+permalink: /documentation/
 last_modified_date: Dec 14 2024 at 11:52 PM
 ---
 
