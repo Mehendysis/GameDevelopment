@@ -76,7 +76,8 @@ Visit his social media addresses:
 While learning from experts like **Chris Zukowski** is invaluable, you’ll also need to develop the ability to make independent observations and conduct your own research. Each tool offers unique insights, but it’s up to you to analyze the data and draw conclusions that align with your game’s vision and goals.  
 
 
-<!-- ##### Defining Your Scope  
+<!--
+##### Defining Your Scope  
 - **Know Your Resources**: Assess your team size, skills, and available time.  
 - **Setting Realistic Goals**: Start with a manageable project to build experience and avoid burnout.  
 - **How to Stay Within Scope**: Use project management tools like Trello or Notion to prioritize features and track progress.  
@@ -104,7 +105,8 @@ While learning from experts like **Chris Zukowski** is invaluable, you’ll also
 ##### Anticipating Challenges and Risks  
 - **Identifying Potential Pitfalls**: Look for areas where your concept might overreach, alienate audiences, or struggle technically.  
 - **How to Prepare**: Break down risks into manageable parts and create contingency plans.  
-- **Mitigating Challenges**: Focus on iterative development and collect feedback early in the process.   -->
+- **Mitigating Challenges**: Focus on iterative development and collect feedback early in the process.  
+-->
 
 ---
 
