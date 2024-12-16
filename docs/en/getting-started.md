@@ -16,8 +16,11 @@ Embarking on game development can feel overwhelming, but breaking it into manage
 
 [Starting Your GDD](#starting-your-gdd) Outlining gameplay mechanics, story, art direction, and technical requirements.  
 
- <!-- **Prototyping**  
+
+ <!-- 
+ **Prototyping**  
    - Build a basic version of your game to test key mechanics and ensure your concept is viable.  
+   - Prepare to release a vertical slice and a first Demo. https://youtu.be/WezMZrk32M4
 
  **Marketing and Community Building**  
    - Promote your game and engage with players on social media, forums, and events to build an audience. 
@@ -32,7 +35,9 @@ Embarking on game development can feel overwhelming, but breaking it into manage
    - Finalize the game, address bugs, and prepare for distribution by coordinating platforms and marketing campaigns.  
 
  **Post-Launch Support**  
-   - Maintain and update your game after release by fixing bugs, adding content, and engaging with your community.   -->
+   - Maintain and update your game after release by fixing bugs, adding content, and engaging with your community.   
+   -->
+
 
 ---
 
