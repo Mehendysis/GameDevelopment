@@ -64,7 +64,9 @@ Visitez ses réseaux sociaux :
 >  
 > [J'ai récupéré tout le catalogue Steam, voici les données](https://youtu.be/qiNv3qv-YbU) Par [Newbie Indie Game Dev](https://www.youtube.com/@NewbieIndieGameDev)  
 >  
-> [Quels jeux se vendent sur Steam](https://howtomarketagame.com/2024/07/16/what-games-are-selling-q2-2024/) Par Chris Zukowski  
+> [Quels jeux se vendent sur Steam](https://howtomarketagame.com/2024/07/16/what-games-are-selling-q2-2024/) Par Chris Zukowski
+>
+> Présentation Youtube
 
 ##### Comment Utiliser les Outils et Interpréter les Données  
 Bien que l'apprentissage auprès d'experts comme **Chris Zukowski** soit précieux, vous devrez également développer la capacité de faire des observations indépendantes et de mener vos propres recherches. Chaque outil offre des perspectives uniques, mais c'est à vous d'analyser les données et de tirer des conclusions qui s'alignent avec la vision et les objectifs de votre jeu.  
