@@ -6,43 +6,41 @@ permalink: /guide-de-démarrage/
 last_modified_date: 15 déc. 2024 à 11:14  
 ---
 
+
+## Table of Contents
+- [Guide de Démarrage](#guide-de-démarrage)
+  - [Étapes pour Développer un Jeu](#étapes-pour-développer-un-jeu)
+  - [Analyse du Marché](#analyse-du-marché)
+    - [Outils et Ressources](#outils-et-ressources)
+        - [Identifier les Tendances de l'Industrie](#identifier-les-tendances-de-lindustrie)
+        - [Mise à Jour Annuelle des Analyses de Jeux](#mise-à-jour-annuelle-des-analyses-de-jeux)
+      - [Comment utiliser les outils et interpréter les données](#comment-utiliser-les-outils-et-interpréter-les-données)
+  - [Définir votre portée](#définir-votre-portée)
+  - [Générer des idées](#générer-des-idées)
+
+---
+
 # Guide de Démarrage  
 
-Se lancer dans le développement de jeux vidéo peut sembler intimidant, mais diviser le processus en étapes gérables facilite grandement le parcours. Voici une feuille de route pour guider les développeurs indépendants et solo à travers les phases essentielles de la création d’un jeu.  
+Se lancer dans le développement de jeux peut sembler intimidant, mais le diviser en étapes gérables garantit un parcours plus fluide. Voici une feuille de route pour guider les développeurs indépendants et les studios à travers les phases essentielles de création d’un jeu.  
+
 
 ## Étapes pour Développer un Jeu  
 
-[Analyse du Marché](#analyse-du-marche) Aligner votre jeu sur les attentes du marché et les opportunités existantes.  
+[Analyse de Marché](#analyse-de-marché) Aligner votre jeu sur les attentes du public et la demande du marché.  
 
-[Commencer Votre DCJV](#commencer-votre-dcjv) Définir les mécaniques de gameplay, l’histoire, la direction artistique et les besoins techniques.  
-
-<!-- **Prototypage**  
-   - Construire une version basique de votre jeu pour tester les mécaniques principales et assurer la viabilité du concept.  
-
- **Marketing et Création de Communauté**  
-   - Promouvoir votre jeu et engager votre public via les réseaux sociaux, les forums et les événements pour bâtir une audience.  
-
- **Développement**  
-   - Entrer en production complète : création des assets, du code, et des contenus pour un jeu jouable.  
-
- **Tests**  
-   - Recueillir les retours des joueurs via des tests internes et externes pour identifier les problèmes et améliorer l'expérience.  
-
- **Préparation au Lancement**  
-   - Finaliser le jeu, corriger les bugs, et préparer la distribution via la coordination des plateformes et des campagnes marketing.  
-
- **Support Post-Lancement**  
-   - Maintenir et mettre à jour votre jeu après sa sortie en corrigeant les bugs, en ajoutant du contenu et en interagissant avec votre communauté.  -->
+[Commencer votre GDD](#commencer-votre-gdd) Définir les mécaniques de jeu, l’histoire, la direction artistique et les exigences techniques.  
 
 ---
 
 ## Analyse du Marché  
 
-L’analyse du marché est une étape cruciale dans le développement de jeux vidéo. Elle vous aide à comprendre l’industrie, à identifier des opportunités, et à orienter votre projet dans la bonne direction.  
+L’analyse de marché est une étape cruciale dans le développement de jeux. Elle vous aide à comprendre l’industrie, identifier les opportunités et orienter la direction de votre jeu.  
 
-Cette section couvre également la définition de l’échelle de votre jeu en fonction de la taille et des ressources de votre équipe. Les développeurs aspirants doivent rester ouverts à l’idée d’ajuster leurs projets et de se concentrer sur des réalisations plus petites et accessibles. Si vous aimez vraiment créer des jeux, prenez votre temps. Plonger directement dans votre grande idée, c’est un peu comme opter pour un fast-food : ça satisfait rapidement, mais ça ne procure pas la profonde satisfaction qui vient avec une création réfléchie et délibérée.  
+Cette section aborde également comment définir l’étendue de votre jeu en fonction de la taille et des ressources de votre équipe. Les développeurs en herbe doivent rester ouverts à ajuster leurs idées et à adopter des projets plus petits et réalisables. Si vous aimez vraiment créer des jeux, vous voudrez prendre votre temps. Aller directement à votre grande idée, c’est comme opter pour une approche fast-food : cela satisfait rapidement votre faim, mais cela manque de la satisfaction profonde qui découle d’une création réfléchie et délibérée.   
 
 ---
+
 ### Outils et Ressources  
 
 ##### Identifier les Tendances de l'Industrie  
@@ -65,40 +63,24 @@ Visitez ses réseaux sociaux :
 > [J'ai récupéré tout le catalogue Steam, voici les données](https://youtu.be/qiNv3qv-YbU) Par [Newbie Indie Game Dev](https://www.youtube.com/@NewbieIndieGameDev)  
 >  
 > [Quels jeux se vendent sur Steam](https://howtomarketagame.com/2024/07/16/what-games-are-selling-q2-2024/) Par Chris Zukowski  
+>
+> [Liste des Genres de Jeux Indépendants en 202](https://youtu.be/3R_sZN9c6zw) By [Find the Fabulist](https://www.youtube.com/@findthefabulist3444)
 
-##### Comment Utiliser les Outils et Interpréter les Données  
-Bien que l'apprentissage auprès d'experts comme **Chris Zukowski** soit précieux, vous devrez également développer la capacité de faire des observations indépendantes et de mener vos propres recherches. Chaque outil offre des perspectives uniques, mais c'est à vous d'analyser les données et de tirer des conclusions qui s'alignent avec la vision et les objectifs de votre jeu.  
 
-<!-- ##### Définir Votre Portée  
-- **Connaître vos Ressources** : Évaluez la taille de votre équipe, les compétences et le temps disponible.  
-- **Fixer des Objectifs Réalistes** : Commencez par un projet gérable pour acquérir de l'expérience et éviter l'épuisement.  
-- **Comment Rester dans les Limites** : Utilisez des outils de gestion de projet comme Trello ou Notion pour prioriser les fonctionnalités et suivre les progrès.  
+markdown
+Copy code
+#### Comment utiliser les outils et interpréter les données  
+Bien qu’apprendre de spécialistes comme **Chris Zukowski** soit inestimable, vous devrez également développer la capacité à faire vos propres observations et à mener vos propres recherches. Chaque outil offre des perspectives uniques, mais c’est à vous d’analyser les données et de tirer des conclusions qui correspondent à la vision et aux objectifs de votre jeu.  
 
-##### Générer des Idées  
-- **S'inspirer** : Explorez les jeux que vous admirez, lisez les préférences des joueurs et analysez les créations extérieures aux jeux.  
-- **Techniques de Brainstorming** : Utilisez des cartes mentales ou l'écriture libre pour développer vos concepts initiaux.  
-- **Comment Faire Évoluer les Idées** : Concentrez-vous sur les mécaniques, les thèmes ou les narrations qui vous enthousiasment et correspondent à vos points forts.  
+## Définir votre portée  
 
-##### Développer un Argument de Vente Unique (USP)  
-- **Définir un USP** : Identifiez ce qui rend votre jeu unique, qu'il s'agisse des mécaniques, du style artistique ou de l'histoire.  
-- **Affiner Votre USP** : Testez votre concept auprès d'amis ou de petites communautés pour valider son attrait.  
-- **Éviter la Complexité Excessive** : Gardez votre USP concentré et évitez de submerger les joueurs avec trop d'éléments uniques.  
+Commencez par une étape petite et gérable. Comme je l'explique dans le [Brouillon de GDD](/GameDevelopment/GDD-Draft/), vous construirez sur cette base au fil du temps. Dans vos futurs projets, vous pourrez aborder des portées plus larges. Gardez vos grandes idées pour lorsque vous aurez perfectionné vos compétences.
 
-##### Trouver Votre Niche  
-- **Pourquoi une Niche est Importante** : Une niche vous aide à bâtir une audience fidèle et à vous démarquer sur un marché saturé.  
-- **Comment Identifier Votre Niche** : Combinez vos forces personnelles avec des domaines sous-exploités dans le marché du jeu.  
-- **Comment Rester dans Votre Niche** : Gardez votre jeu cohérent avec les attentes de votre public cible.  
+## Générer des idées  
+Si vous manquez d’une bonne idée pour commencer, vous pouvez commencer par dresser une liste des jeux, livres et films que vous admirez. Ensuite, créez des puces soulignant ce que vous aimez spécifiquement à leur sujet. Faites de même pour les jeux appartenant au genre que vous ciblez pour votre propre jeu. Portez une attention particulière aux mécaniques de ces jeux, car vous devrez identifier un point de vente unique qui se démarque tout en s'alignant avec cette catégorie de mécaniques. L'accent sur les mécaniques est particulièrement important, plus que sur d'autres aspects comme les graphismes, le style ou le lore. Contrairement aux romans ou aux films, les jeux sont principalement achetés pour satisfaire le désir du joueur d’interactions et d’expériences de jeu captivantes.
 
-##### Éviter le Mélange de Genres (ou Comment le Faire Correctement)  
-- **Quand Éviter le Mélange** : Si les genres ont des mécaniques ou des attentes de public contradictoires, concentrez-vous sur un seul.  
-- **Quand Mélanger les Genres** : Si cela ajoute de la profondeur ou de l'innovation sans compromettre l'expérience de base.  
-- **Comment Mélanger avec Succès** : Définissez clairement comment les genres se complètent et testez soigneusement pour l'équilibre.  
+Personnellement, je ne suis pas fan des séances de brainstorming, en particulier celles au style corporatif. Cela ressemble à une méthode systématique appliquée à quelque chose d’intrinsèquement non systématique. Le principal problème est que les bonnes idées n’apparaissent pas à la demande – elles surviennent souvent par hasard, dans des conditions propices : un environnement favorable, le confort et l’absence de stress. Gardez un carnet portable ou une application de prise de notes sur votre smartphone à portée de main et attendez le bon moment tout en faisant ce qui suit :
 
-##### Anticiper les Défis et les Risques  
-- **Identifier les Pièges Potentiels** : Recherchez les domaines où votre concept pourrait dépasser les limites, aliéner le public, ou rencontrer des difficultés techniques.  
-- **Comment Se Préparer** : Divisez les risques en parties gérables et créez des plans de contingence.  
-- **Atténuer les Défis** : Concentrez-vous sur un développement itératif et recueillez des retours tôt dans le processus.   -->
+Je mentionne souvent ma technique consistant à entrer dans un état transitoire entre le sommeil et l’éveil. Ma première session en direct couvre largement ce sujet : [Comment avoir vos meilleures idées](https://www.youtube.com/live/dCPGdBV2iTM). Pour tirer le meilleur parti de cette technique, étudiez les jeux similaires au vôtre, faites des promenades, profitez de longs bains et, alors que vous vous endormez, pensez à vos mécaniques de jeu. Imaginez-vous comme le joueur et laissez-vous glisser dans le monde des rêves sans forcer votre imagination. J’ai constaté que cette méthode peut aider à générer des idées qui sont étroitement alignées avec ce que vous visez à accomplir grâce à ces pratiques méditatives. 
 
----
-
-## Commencer Votre DCJV
+Rappelez-vous qu'une bonne idée ne viendra pas nécessairement à vous lors de chaque session de méditation. Elle peut surgir à tout autre moment. La méditation aide simplement à préparer votre corps et votre esprit à être plus réceptifs et dans le bon état pour que l’inspiration surgisse.
