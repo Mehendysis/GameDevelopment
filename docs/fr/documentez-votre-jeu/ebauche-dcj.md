@@ -2,7 +2,7 @@
 title: Ébauche du DCJ
 parent: Documentez Votre Jeu
 nav_order: 1
-permalink: /GDD-Draft/
+permalink: /ebauche-DCJ/
 last_modified_date: Dec 14 2024 at 11:52 PM
 ---
 

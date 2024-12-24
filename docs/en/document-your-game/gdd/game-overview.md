@@ -34,9 +34,6 @@ The game's title should be carefully considered and evaluated. Is it already in 
 - **Platform and Engine**: 
     Describe the platforms the game will be released on (e.g., PC, consoles, mobile) and the technology or game engine (e.g., Unreal Engine, Unity) being used for development, explaining how these choices impact the game’s performance and accessibility.
 
-- **Development Scope**:
-    Outline the overall scale and ambition of the project, including its timeline, team size, and potential risks. 
-
 - **Visual Perspective**:
     Define the game’s graphical style—2D, 3D, or 2.5D—and camera perspective, such as top-down, isometric, side-scrolling, first-person, third-person, or fixed-camera.
 
@@ -86,6 +83,9 @@ The game's title should be carefully considered and evaluated. Is it already in 
     - Massively Multiplayer Online (MMO): Large numbers of players interact in a shared online world.
     - Asynchronous Multiplayer: Players participate at different times, not simultaneously.
   
+- **Development Scope**:
+    Outline the overall scale and ambition of the project, including its timeline, team size, and potential risks. 
+
 ---
 
 # Elevator pitch

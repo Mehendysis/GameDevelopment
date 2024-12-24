@@ -71,7 +71,7 @@ Bien qu’apprendre de spécialistes comme **Chris Zukowski** soit inestimable, 
 
 ## Définir votre portée  
 
-Commencez par une étape petite et gérable. Comme je l'explique dans le [Brouillon de GDD](/GameDevelopment/GDD-Draft/), vous construirez sur cette base au fil du temps. Dans vos futurs projets, vous pourrez aborder des portées plus larges. Gardez vos grandes idées pour lorsque vous aurez perfectionné vos compétences.
+Commencez par une étape petite et gérable. Comme je l'explique dans le [Ébauche de DCJ](/GameDevelopment/ebauche-DCJ/), vous construirez sur cette base au fil du temps. Dans vos futurs projets, vous pourrez aborder des portées plus larges. Gardez vos grandes idées pour lorsque vous aurez perfectionné vos compétences.
 
 ## Générer des idées  
 Si vous manquez d’une bonne idée pour commencer, vous pouvez commencer par dresser une liste des jeux, livres et films que vous admirez. Ensuite, créez des puces soulignant ce que vous aimez spécifiquement à leur sujet. Faites de même pour les jeux appartenant au genre que vous ciblez pour votre propre jeu. Portez une attention particulière aux mécaniques de ces jeux, car vous devrez identifier un point de vente unique qui se démarque tout en s'alignant avec cette catégorie de mécaniques. L'accent sur les mécaniques est particulièrement important, plus que sur d'autres aspects comme les graphismes, le style ou le lore. Contrairement aux romans ou aux films, les jeux sont principalement achetés pour satisfaire le désir du joueur d’interactions et d’expériences de jeu captivantes.
