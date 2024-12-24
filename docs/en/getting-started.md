@@ -16,6 +16,7 @@ last_modified_date: Dec 15 2024 at 11:14 AM
       - [How to Use the Tools and Interpret Data](#how-to-use-the-tools-and-interpret-data)
   - [Defining Your Scope](#defining-your-scope)
   - [Generating Ideas](#generating-ideas)
+- [Section In Progress](#section-in-progress)
 
 ---
 
@@ -58,7 +59,6 @@ Embarking on game development can feel overwhelming, but breaking it into manage
 - Maintain and update your game after release by fixing bugs, adding content, and engaging with your community.   
 -->
 
-
 ---
 
 ## Market Analysis  
@@ -99,7 +99,6 @@ Visit his social media addresses:
 #### How to Use the Tools and Interpret Data  
 While learning from experts like **Chris Zukowski** is invaluable, you’ll also need to develop the ability to make independent observations and conduct your own research. Each tool offers unique insights, but it’s up to you to analyze the data and draw conclusions that align with your game’s vision and goals.  
 
-
 ## Defining Your Scope  
 
 Begin with a small, manageable step. As I explain in the [GDD-Draft](/GameDevelopment/GDD-Draft/), you will build upon this foundation over time. In future projects, you'll be able to tackle larger scopes. Save your grand ideas for when you’ve honed your skills.
@@ -107,15 +106,33 @@ Begin with a small, manageable step. As I explain in the [GDD-Draft](/GameDevelo
 ## Generating Ideas  
 If you lack a good idea on where to start you can start by listing the games, books, and movies you admire. Then, create bullet points highlighting what you specifically like about them. Do the same for games within the genre you’re targeting for your own game. Pay particular attention to the mechanics of these games, as you’ll need to identify a unique selling point that stands out while still aligning with that category of mechanics. The focus on the mechanics is particullarly important, more than focusing on other aspects like graphics, style, or the lore. Unlike novels or movies, games are primarily purchased to satisfy the player’s desire for engaging interactions and gameplay experiences.
 
-https://youtu.be/zRaYih4I5aI
-game 01 - idle slayer - gear upgrade , big skill trees, 6 zones map with different ennemies, teams, 
-game 02 - Looten - 4 main classes - 3 accendency classes, 28 default skills and 28 cooldown skills
+# Section In Progress
+
+**What I like in game, books, and movies*
+- **Final Fantasy**: Each team members are unique, music.
+- **Musashi (novel), by Eiji Yoshikawa**: Hidden character in dialogues.
+- **Hyper Light Drifter**, **Sea of Stars, OCTOPATH TRAVELER II**: Art style.
+- **Any Crafting Game**: Crafting!!
+
+https://www.youtube.com/watch?v=zRaYih4I5aI
+https://youtu.be/Xv1csjksgmA
+https://www.youtube.com/results?search_query=TOP+++Idle+Games+PC
+
+game 01 - Idle slayer - gear upgrade , big skill trees, teams, 
+game 02 - Lootun - 4 main classes - 3 accendency classes, 28 default skills and 28 cooldown skills, skills leads to builds (can I avoid the situation of being stuck with ver bad builds)
+game 03 - Forager - Not fix camera
+game 04 - Cell to Singularity - Evolution
+
+Auto Battler
 
 Personally, I’m not a fan of brainstorming sessions, especially the corporate-style approach. It feels like a systematic method applied to something inherently unsystematic. The main issue is that good ideas don’t appear on demand—they often arise by chance, given the right conditions: a conducive environment, comfort, and the absence of stress. Keep a portable notebook or a note-taking app on your smartphone handy and wait for the right moment while doing the following:
 
 I often mention my technique of entering a transitory state between sleep and wakefulness. My first live session covers much of this topic: [How to have your greatest ideas](https://www.youtube.com/live/dCPGdBV2iTM). To make the most of this technique, study games similar to yours, take walks, enjoy long baths, and, as you’re drifting off to sleep, think about your game mechanics. Picture yourself as the player and allow yourself to slip into the dream world without forcing your imagination. I’ve found this method can help generate ideas that are closely aligned with what you're aiming to achieve through these meditative practices. 
 
 Remember, a good idea won’t necessarily come to you during every meditation session. It can emerge at any other time. Meditation simply helps prepare your body and mind to be more receptive and in the right state for inspiration to strike.
+
+Unique Selling Point (USP) : Crafting robotnik from ressource found in tunel digging prison. Robotbik are the player's autobattler minions.
+
 
 <!-- 
 ### Developing a Unique Selling Point (USP)  
