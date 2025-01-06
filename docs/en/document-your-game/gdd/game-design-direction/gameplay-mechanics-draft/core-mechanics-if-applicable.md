@@ -1,24 +1,184 @@
 ---
-title: Gameplay Mechanics (if applicable)
+title: Core Mechanics (if applicable)
 parent: Game Design Direction
 nav_order: 3
-permalink: /GDD/game-design-direction/gameplay-mechanics-if-applicable/
+permalink: /GDD/game-design-direction/core-mechanics-if-applicable/
 last_modified_date: Dec 14 2024 at 11:52 PM
 ---
 
 ## Table of Contents
-- [Gameplay Mechanics (if applicable)](#gameplay-mechanics-if-applicable)
+- [Core Mechanics (if applicable)](#core-mechanics-if-applicable)
+  - [Action Mechanics (if applicable)](#action-mechanics-if-applicable)
+  - [Strategy Mechanics (if applicable)](#strategy-mechanics-if-applicable)
+  - [Exploration Mechanics (if applicable)](#exploration-mechanics-if-applicable)
+  - [Role-Playing Mechanics (if applicable)](#role-playing-mechanics-if-applicable)
+  - [Simulation Mechanics (if applicable)](#simulation-mechanics-if-applicable)
   - [Multiplayer Features (if applicable)](#multiplayer-features-if-applicable)
   - [Game Physics (if applicable)](#game-physics-if-applicable)
   - [Customization (if applicable)](#customization-if-applicable)
   - [Spawning system (if applicable)](#spawning-system-if-applicable)
   - [Crafting Systems (if applicable)](#crafting-systems-if-applicable)
+  - [Progression Mechanics (if applicable)](#progression-mechanics-if-applicable)
   - [Platform-Specific Features (if applicable)](#platform-specific-features-if-applicable)
 
 ---
 
-# Gameplay Mechanics (if applicable)
+# Core Mechanics (if applicable)
 This section covers features that may be optional or supplementary, depending on the focus of your game. If one of these mechanics is a central part of your game (e.g., crafting, multiplayer), please provide a detailed explanation of how it functions and contributes to the overall experience.
+
+---
+
+## Action Mechanics (if applicable)
+
+**Core Movement Systems**:
+Detail the fundamental ways players interact with the game world:
+- Walking, running, jumping mechanics with specific parameters
+- Climbing or traversal systems
+- Swimming or fluid movement mechanics
+- Special movement abilities (e.g., dash, double jump, wall run)
+
+**Combat Systems**:
+Outline combat interaction mechanics:
+- Melee combat mechanics and combo systems
+- Ranged combat and projectile physics
+- Blocking, parrying, or defensive mechanics
+- Damage calculation and hit detection
+- Special combat abilities or power moves
+
+**Platforming Elements**:
+Define precision movement mechanics:
+- Jump height and distance parameters
+- Platform types and interactions
+- Timing-based challenges
+- Environmental hazards and obstacles
+
+**Physics-Based Interactions**:
+Describe object manipulation systems:
+- Grabbing and throwing mechanics
+- Weight and force calculations
+- Object behavior and reactions
+- Environmental destruction or deformation
+
+---
+
+## Strategy Mechanics (if applicable)
+
+**Resource Management**:
+Define systems for handling game resources:
+- Resource types and their properties
+- Collection and storage mechanics
+- Resource allocation and consumption
+- Economy balancing systems
+
+**Tactical Elements**:
+Detail strategic gameplay components:
+- Unit positioning and formation systems
+- Territory control mechanics
+- Line of sight and fog of war
+- Strategic advantage calculations
+
+**Game Flow Control**:
+Specify the pace and structure of strategic gameplay:
+- Turn order and phase systems
+- Action point allocation
+- Time management mechanics
+- Decision-making windows
+
+**Collection Systems**:
+Outline systems for gathering and managing game elements:
+- Item or card collection mechanics
+- Deck building rules and limitations
+- Upgrade and combination systems
+- Strategic loadout preparation
+
+---
+
+## Exploration Mechanics (if applicable)
+
+**World Navigation**:
+Detail systems for traversing the game world:
+- Movement modes and vehicles
+- Navigation tools and aids
+- World boundaries and restrictions
+- Fast travel systems
+
+**Discovery Systems**:
+Outline exploration reward mechanics:
+- Hidden area detection
+- Secret unlock conditions
+- Collectible placement rules
+- Exploration rewards and incentives
+
+**Environmental Interaction**:
+Define world interaction mechanics:
+- Puzzle mechanics and solutions
+- Environmental manipulation
+- Interactive object behaviors
+- Destructible elements
+
+**World Revelation**:
+Specify systems for world discovery:
+- Map system functionality
+- Fog of war mechanics
+- Area unlock conditions
+- Discovery tracking methods
+
+---
+
+## Role-Playing Mechanics (if applicable)
+
+**Character Development**:
+Detail character customization systems:
+- Creation tools and options
+- Appearance modification
+- Background and origin choices
+- Personality trait systems
+
+**Narrative Systems**:
+Outline story interaction mechanics:
+- Dialogue tree structure
+- Choice consequence tracking
+- Relationship management
+- Story branching mechanics
+
+**Reputation Management**:
+Define social interaction systems:
+- Faction relationship tracking
+- Reputation gain/loss mechanics
+- Alliance and rivalry systems
+- Social status effects
+
+**Skill-Based Growth**:
+Specify character progression mechanics:
+- Skill learning conditions
+- Practice and improvement systems
+- Specialization options
+- Mastery tracking
+
+---
+
+## Simulation Mechanics (if applicable)
+
+**Economic Systems**:
+Outline resource management mechanics:
+- Market dynamics
+- Trade mechanics
+- Price fluctuation systems
+- Economic balance rules
+
+**Life Simulation**:
+Define daily life mechanics:
+- Time management systems
+- Need satisfaction mechanics
+- Relationship development
+- Career progression paths
+
+**Equipment Operation**:
+Specify vehicle/tool control systems:
+- Control schemes
+- Operation requirements
+- Maintenance mechanics
+- Performance variables
 
 ---
 
@@ -111,6 +271,38 @@ This section details player personalization options, procedural world adjustment
 - **Customizable Output**: Allow players to modify crafted items, such as enhancing stats or aesthetics.
 - **Dynamic Crafting**: Explain how crafting integrates with procedural systems, like randomly generating unique crafting materials or recipe variations based on the game world’s state.
 - **Crafting Stations and Tools**: Specify whether players require designated crafting areas or tools to create items, adding an extra layer of strategy to resource management.
+
+---
+
+## Progression Mechanics (if applicable)
+
+**Experience and Leveling**:
+Detail the character advancement system:
+- XP gain mechanics and sources
+- Level-up requirements and rewards
+- Stat growth and allocation
+- Milestone achievements and bonuses
+
+**Skill Development**:
+Outline the ability progression system:
+- Skill tree structure and dependencies
+- Unlock conditions and requirements
+- Ability upgrades and modifications
+- Specialization paths and branches
+
+**Equipment Progression**:
+Define item improvement systems:
+- Upgrade paths and requirements
+- Enhancement mechanics
+- Rarity systems and special items
+- Equipment synergy bonuses
+
+**Achievement System**:
+Specify progress tracking mechanics:
+- Quest completion requirements
+- Achievement tiers and rewards
+- Progress tracking metrics
+- Completion bonuses and incentives
 
 ---
 

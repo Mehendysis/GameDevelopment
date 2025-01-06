@@ -10,7 +10,6 @@ last_modified_date: Dec 14 2024 at 11:52 PM
 - [Game Design Direction](#game-design-direction)
   - [Design Pillars](#design-pillars)
   - [Gameplay Mechanics](#gameplay-mechanics)
-  - [Gameplay Mechanics (if applicable)](#gameplay-mechanics-if-applicable)
   - [Level Design](#level-design)
   - [Globalization and Analytics](#globalization-and-analytics)
 
@@ -29,11 +28,6 @@ Link to [Design Pillars](design-pillars/).
 
 ## Gameplay Mechanics
 Link to [Gameplay Mechanics](gameplay-mechanics/).
-
----
-
-## Gameplay Mechanics (if applicable)
-Link to [Gameplay Mechanics (if applicable)](gameplay-mechanics-if-applicable/).
 
 ---
 

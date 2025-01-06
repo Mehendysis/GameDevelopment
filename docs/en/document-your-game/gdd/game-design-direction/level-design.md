@@ -56,9 +56,6 @@ Each level could be used to introduce new objectives, environments, and gameplay
 **World Structure**:
 Define the overall structure of the game, such as whether it’s level-based, chapter-based, or open-world. Specify how the game progresses (e.g., linear levels, episodic chapters, or free exploration in an open-world setup). Clarify if the game has distinct levels or chapters that players must complete in sequence, or if the structure supports non-linear progression with branching paths.
 
-**Exploration Mechanics**:
-Highlight how players interact with and explore the environment, including traversal mechanics (e.g., walking, flying, vehicle use) and any interactive elements like unlocking new areas or discovering hidden locations.
-
 **Gameplay Elements**:
  Define all interactive elements within the game that the player or characters/units can engage with or acquire. This includes items such as weapons, buildings, switches, elevators, traps, spells, power-ups, and special talents. For each category, explain how these elements are introduced into the game and how players interact with them. Clarify how each element contributes to gameplay mechanics and the player’s progression within the game world.
 

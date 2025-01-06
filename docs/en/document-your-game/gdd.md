@@ -1,7 +1,7 @@
 ---
 title: GDD
 parent: Document Your Game
-nav_order: 2
+nav_order: 4
 permalink: /GDD/
 last_modified_date: Dec 14 2024 at 11:52 PM
 ---
