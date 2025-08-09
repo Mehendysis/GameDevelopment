@@ -61,7 +61,7 @@ Core mechanics are the fundamental interactions that define your game. They shou
 ---
 
 ## Core Mechanics (if applicable)
-Link to [Core Mechanics (if applicable)](core-mechanics-if-applicable/).
+Link to [Core Mechanics (if applicable)](.../game-design-direction/core-mechanics-if-applicable/).
 
 ---
 
