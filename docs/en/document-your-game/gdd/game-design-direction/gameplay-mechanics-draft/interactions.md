@@ -80,6 +80,18 @@ Explain how players interact across devices or systems.
 
 ---
 
+#### Narrative Systems
+**Dialogue Structure**
+Specify how dialogue branching structures are designed and implemented (e.g., as dialogue trees, state machines, or scriptable objects). Include outlines on input methods for interacting with dialogue (e.g., selection wheels or text-based menus). Mention how the system accounts for context, such as dynamic responses based on player choices or world states.
+
+**Choice and Consequence**
+Summarize how player decisions impact gameplay elements like objectives, relationships, allies, or resource availability. 
+
+**Story branching mechanics**
+Explain the framework for mapping narrative decisions to gameplay outcomes (e.g., decision trees, flag-based systems, or event-driven triggers). Describe how player choices persist across levels or save files, and how branching paths affect variables like quest progression, ally availability, or environmental changes.
+
+---
+
 #### Spawning system
 
 **Mob and NPC Spawning**
@@ -255,18 +267,6 @@ Specify character progression mechanics:
 - Practice and improvement systems
 - Specialization options
 - Mastery tracking
-
----
-
-#### Narrative Systems
-**Dialogue Structure**
-Specify how dialogue branching structures are designed and implemented (e.g., as dialogue trees, state machines, or scriptable objects). Include outlines on input methods for interacting with dialogue (e.g., selection wheels or text-based menus). Mention how the system accounts for context, such as dynamic responses based on player choices or world states.
-
-**Choice and Consequence**
-Summarize how player decisions impact gameplay elements like objectives, relationships, allies, or resource availability. 
-
-**Story branching mechanics**
-Explain the framework for mapping narrative decisions to gameplay outcomes (e.g., decision trees, flag-based systems, or event-driven triggers). Describe how player choices persist across levels or save files, and how branching paths affect variables like quest progression, ally availability, or environmental changes.
 
 ---
 
