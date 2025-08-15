@@ -100,10 +100,10 @@ Describe if NPCs will move based on pathfinding, avoid obstacles, or make combat
 - **Behavior and Role Assignments**: NPC behaviors, such as aggressiveness or roles (e.g., healer, merchant). Design NPC behavior systems (e.g., AI states, roles like merchant or quest giver) and how they affect player interaction and world events.
 - **Coportment and Role Variations**: Develop systems for adjusting NPC roles or behaviors based on game state changes or player actions (e.g., NPCs switching from neutral to hostile).
  
-**Procedual Game World and Environment Customization**
+**Procedural Game World and Environment Customization**
 - **Terrain and Base Building**: Outline the system for terrain modification or base building, including the objects or classes needed to modify, destroy, or build environmental elements.
 - **World Creation Rules**: Discuss systems for tweaking environmental settings such as difficulty, resource distribution, weather effects, or day-night cycles.
-- **Procedual Generation**: Detail how procedural algorithms determine terrain layouts, resource placements, event spawns, and world dynamics, ensuring a unique experience with each playthrough.
+- **Procedural Generation**: Detail how procedural algorithms determine terrain layouts, resource placements, event spawns, and world dynamics, ensuring a unique experience with each playthrough.
 
 ---
 
