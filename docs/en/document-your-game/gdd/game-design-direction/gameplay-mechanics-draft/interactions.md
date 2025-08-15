@@ -80,10 +80,13 @@ Explain how players interact across devices or systems.
 
 ---
 
-## Spawning system (if applicable)
+#### Spawning system
 
 **Mob and NPC Spawning**
 - **NPC Spawning Systems**: Specify the system for dynamic NPC generation, whether it’s procedural, event-based, or rule-driven. Outline how NPCs will spawn based on world conditions (e.g., player progression, area-specific events) and the logic for NPC placement, behavior, and interaction.
+
+**Artificial Intelligence (AI)**
+Describe if NPCs will move based on pathfinding, avoid obstacles, or make combat decisions like targeting and positioning. Explain if they will react to player actions or environmental changes, such as responding to noise or being ambushed. Indicate if their behavior adapts to the game’s difficulty. Specify if level designers can control these behaviors through configuration files, scripts, or other methods. Also, mention if roles like quest-givers, merchants, or enemies are programmed to support the game’s story and gameplay.
 - **Behavior and Role Assignments**: NPC behaviors, such as aggressiveness or roles (e.g., healer, merchant). Design NPC behavior systems (e.g., AI states, roles like merchant or quest giver) and how they affect player interaction and world events.
 - **Coportment and Role Variations**: Develop systems for adjusting NPC roles or behaviors based on game state changes or player actions (e.g., NPCs switching from neutral to hostile).
  
@@ -104,7 +107,7 @@ This section details player personalization options, procedural world adjustment
 
 ---
 
-## Crafting Systems (if applicable)
+#### Crafting Systems
 
 - **Core Crafting Mechanics**: Outline how players collect resources to craft items, weapons, tools, or structures.
 - **Crafting Recipes**: Include details on how players learn recipes (e.g., through progression, discovery, or blueprints).
@@ -136,7 +139,7 @@ Discuss how the balance of game physics will ensure a fair and engaging experien
 
 ---
 
-## Progression Mechanics (if applicable)
+#### Progression Mechanics
 
 **Experience and Leveling**:
 Detail the character advancement system:
@@ -239,12 +242,6 @@ Summarize character customization systems:
 - Background and origin choices
 - Personality trait systems
 
-**Narrative Systems**:
-Outline story interaction mechanics:
-- Choice consequence tracking
-- Relationship management
-- Story branching mechanics
-
 **Reputation Management**:
 Define social interaction systems:
 - Faction relationship tracking
@@ -258,6 +255,18 @@ Specify character progression mechanics:
 - Practice and improvement systems
 - Specialization options
 - Mastery tracking
+
+---
+
+#### Narrative Systems
+**Dialogue Structure**
+Specify how dialogue branching structures are designed and implemented (e.g., as dialogue trees, state machines, or scriptable objects). Include outlines on input methods for interacting with dialogue (e.g., selection wheels or text-based menus). Mention how the system accounts for context, such as dynamic responses based on player choices or world states.
+
+**Choice and Consequence**
+Summarize how player decisions impact gameplay elements like objectives, relationships, allies, or resource availability. 
+
+**Story branching mechanics**
+Explain the framework for mapping narrative decisions to gameplay outcomes (e.g., decision trees, flag-based systems, or event-driven triggers). Describe how player choices persist across levels or save files, and how branching paths affect variables like quest progression, ally availability, or environmental changes.
 
 ---
 
@@ -330,15 +339,5 @@ Explain how multiplayer differs from solo-play in the following areas:
 
 ## Interaction Structure
 
-### Dialogue Structure
-Specify how dialogue branching structures are designed and implemented (e.g., as dialogue trees, state machines, or scriptable objects). Include outlines on input methods for interacting with dialogue (e.g., selection wheels or text-based menus). Mention how the system accounts for context, such as dynamic responses based on player choices or world states.
-
-### Choice and Consequence
-Summarize how player decisions impact gameplay elements like objectives, allies, or resource availability. Explain the framework for mapping narrative decisions to gameplay outcomes (e.g., decision trees, flag-based systems, or event-driven triggers). Describe how player choices persist across levels or save files, and how branching paths affect variables like quest progression, ally availability, or environmental changes.
-
-### Artificial Intelligence (AI)
-Describe if NPCs will move based on pathfinding, avoid obstacles, or make combat decisions like targeting and positioning. Explain if they will react to player actions or environmental changes, such as responding to noise or being ambushed. Indicate if their behavior adapts to the game’s difficulty. Specify if level designers can control these behaviors through configuration files, scripts, or other methods. Also, mention if roles like quest-givers, merchants, or enemies are programmed to support the game’s story and gameplay.
 
 
-### Resource Management
-Detail systems involving collection and utilization of resources (e.g., inventory, crafting).
