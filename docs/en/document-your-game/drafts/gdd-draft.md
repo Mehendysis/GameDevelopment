@@ -46,11 +46,7 @@ To have a concise version of what needs to be done in the first version of the *
 The direction of the game design cannot be competly secured yet, this is where we have to test and go back redifining the GDD-Draft as much as possible to get the right mechanics before going further. The only needed sections for now are in the *Gameplay Mechanics* section.
 
 ### Gameplay Mechanics
-
-- [Core Gameplay](/GameDevelopment/GDD/game-design-direction/gameplay-mechanics/core-gameplay/)
-- [Interactions](/GameDevelopment/GDD/game-design-direction/gameplay-mechanics/interactions/)
-
-### Gameplay Mechanics (if applicable)
 If your game's core mechanic (such as crafting) appears in this list, consider including it in your GDD-Draft. For the MVP, minimize the number of mechanics - ideally focus on one primary mechanic supported by a few basic secondary mechanics. These secondary mechanics should serve as placeholders that complement the main mechanic. For example, in the GDD-Draft of Mechatriarch, combat serves as the primary mechanic, while spawning and crafting function as supporting placeholder mechanics that enhance the combat system.
-- [Gameplay Mechanics (if applicable)](/GameDevelopment/GDD/game-design-direction/gameplay-mechanics-if-applicable/)
+- [Core Gameplay](/GameDevelopment/GDD/game-design-direction/gameplay-mechanics/core-gameplay/)
+
 
