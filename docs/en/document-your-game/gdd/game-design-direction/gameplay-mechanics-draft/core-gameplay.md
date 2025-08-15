@@ -59,10 +59,3 @@ Core mechanics are the fundamental interactions that define your game. They shou
 
 Link to [Core Mechanics and Interactions](../../gameplay-mechanics/core-mechanics-and-interactions/).
 
----
-
-# Gameplay Flow
-The Gameplay Flow should provide a detailed, step-by-step description of player actions, including how they interact with the game world, progress through challenges, and impact the narrative. It should outline the evolving difficulty, core gameplay extensions, and the integration of UI elements, such as menus and HUD, that enhance the experience. Additionally, explain how immediate outcomes and long-term consequences of player decisions shape the game’s progression and player engagement.
-
----
-
