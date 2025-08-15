@@ -1,5 +1,5 @@
 ---
-title: Interactions (Core Mechanics)
+title: Core Mechanics and Interactions
 parent: Gameplay Mechanics
 nav_order: 3
 permalink: /GDD/game-design-direction/gameplay-mechanics/interactions/
