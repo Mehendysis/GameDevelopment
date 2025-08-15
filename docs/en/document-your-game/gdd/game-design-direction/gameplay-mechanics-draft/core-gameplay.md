@@ -11,8 +11,7 @@ last_modified_date: Dec 14 2024 at 11:52 PM
   - [Core Loop](#core-loop)
   - [Level Loop](#level-loop)
   - [Meta Loop](#meta-loop)
-  - [Core Mechanics](#core-mechanics)
-  - [Core Mechanics (if applicable)](#core-mechanics-if-applicable)
+  - [Core Mechanics and Interactions](#core-mechanics-and-interactions)
 - [Gameplay Flow](#gameplay-flow)
 
 ---
@@ -51,17 +50,14 @@ The meta loop encompasses the overall game progression and long-term player enga
 Example: 
 >*"Players will progress through 5 main story chapters, each unlocking new abilities and areas to explore. Character levels range from 1-50, with new skill trees unlocked every 10 levels."*
 
-## Core Mechanics
+## Core Mechanics and Interactions
 Core mechanics are the fundamental interactions that define your game. They should support the emotional drive of your game and be present throughout the entire experience. Examples include:
 - **Platformers**: Jumping and movement.
 - **First-Person Shooters**: Aiming and shooting.
 - **Strategy Games**: Resource management and unit control.
 - **RPGs**: Character progression and skill development.
 
----
-
-## Core Mechanics (if applicable)
-Link to [Core Mechanics (if applicable)](../../core-mechanics-if-applicable/).
+Link to [Core Mechanics and Interactions](../../core-mechanics-and-interactions/).
 
 ---
 
