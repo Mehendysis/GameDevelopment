@@ -22,7 +22,7 @@ The GDD-Draft serves to quickly create a demo to test if your abstract idea hold
 
 ## Starting your doc
 
-#1 Main mechanics of the MVP*
+#One Main mechanics of the MVP*
 
 *Minimum viable product: A testable version with (only one) the most important mechanic of the game, a begining and an end. Without anything else to remove.
 "Perfection is achieved when there is nothing left to take away" -Antoine de Saint-Exupéry. 
@@ -43,9 +43,9 @@ To have a concise version of what needs to be done in the first version of the *
 - [Game Description](/GameDevelopment/GDD/game-overview/game-description/)
 
 ## Game Design Direction
-Thw direction of the game design cannot be competly secured yet, this is where we have to test and go back redifining the GDD-Draft as much as possible to get the right mechanics before going further. The only needed sections for now are in the *Gameplay Mechanics* section.
+The direction of the game design cannot be competly secured yet, this is where we have to test and go back redifining the GDD-Draft as much as possible to get the right mechanics before going further. The only needed sections for now are in the *Gameplay Mechanics* section.
 
-### Gameplay Mecanics
+### Gameplay Mechanics
 
 - [Core Gameplay](/GameDevelopment/GDD/game-design-direction/gameplay-mechanics/core-gameplay/)
 - [Interactions](/GameDevelopment/GDD/game-design-direction/gameplay-mechanics/interactions/)
