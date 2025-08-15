@@ -57,7 +57,7 @@ Core mechanics are the fundamental interactions that define your game. They shou
 - **Strategy Games**: Resource management and unit control.
 - **RPGs**: Character progression and skill development.
 
-Link to [Core Mechanics and Interactions](../../core-mechanics-and-interactions/).
+Link to [Core Mechanics and Interactions](../../gameplay-mechanics/core-mechanics-and-interactions/).
 
 ---
 
