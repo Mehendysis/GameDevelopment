@@ -1,5 +1,5 @@
 ---
-title: Interactions
+title: Interactions (Core Mechanics)
 parent: Gameplay Mechanics
 nav_order: 3
 permalink: /GDD/game-design-direction/gameplay-mechanics/interactions/
@@ -7,7 +7,7 @@ last_modified_date: Dec 14 2024 at 11:52 PM
 ---
 
 ## Table of Contents
-- [Interactions](#interactions)
+- [Interactions](#interactions-core-mechanics)
   - [Interaction Systems](#interaction-systems)
     - [Combat or Interaction Systems (if main part of your game)](#combat-or-interaction-systems-if-main-part-of-your-game)
     - [Player Actions and Controls](#player-actions-and-controls)
@@ -27,7 +27,7 @@ last_modified_date: Dec 14 2024 at 11:52 PM
 
 ---
 
-# Interactions
+# Interactions (Core Mechanics)
 
 ## Interaction Systems
 
