@@ -12,6 +12,10 @@ last_modified_date: Dec 14 2024 at 11:52 PM
   - [Visual Style](#visual-style)
     - [UI Design](#ui-design)
     - [Mood Board](#mood-board)
+      - [Overall Game Mood Board](#overall-game-mood-board)
+      - [Level Design Mood Board](#level-design-mood-board)
+      - [Characters Mood Board](#characters-mood-board)
+      - [UI Mood Board](#ui-mood-board)
   - [Audio Design](#audio-design)
     - [Voice Acting Integration:](#voice-acting-integration)
     - [Music Usage Breakdown](#music-usage-breakdown)
@@ -74,6 +78,13 @@ The Game Art Document, also known as the Art Bible, Visual Style Guide, or Art S
 ### Mood Board
 **Concept Art and Visual Aids**: Include sketches, mock-ups, or sourced visuals to communicate ideas clearly.
 
+#### Overall Game Mood Board
+
+#### Level Design Mood Board
+
+#### Characters Mood Board
+
+#### UI Mood Board
 
 ---
 

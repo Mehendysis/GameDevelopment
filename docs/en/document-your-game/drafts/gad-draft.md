@@ -11,6 +11,11 @@ last_modified_date: Dec 14 2024 at 11:52 PM
   - [Art Asset Organization](#art-asset-organization)
   - [Visual Style](#visual-style)
     - [UI Design](#ui-design)
+    - [Mood Board](#mood-board)
+      - [Overall Game Mood Board](#overall-game-mood-board)
+      - [Level Design Mood Board](#level-design-mood-board)
+      - [Characters Mood Board](#characters-mood-board)
+      - [UI Mood Board](#ui-mood-board)
   - [Audio Design](#audio-design)
     - [Voice Acting Integration:](#voice-acting-integration)
     - [Music Usage Breakdown](#music-usage-breakdown)
@@ -58,7 +63,6 @@ last_modified_date: Dec 14 2024 at 11:52 PM
 - **Graphical Features:**: Highlight unique techniques (e.g., cel-shading, photorealism).
 - **Character and Environment Design Philosophy**: Define design principles for characters and settings.
 - **Early Mock-ups**: If detailed art is unavailable during early development, focus on describing the vision; polished art can be created later by skilled artists.
-- **Concept Art and Visual Aids**: Include sketches, mock-ups, or sourced visuals to communicate ideas clearly.
 - **Art Resources and Copyrights**: Specify any external art used, credit sources properly, and confirm compliance with copyright laws to avoid legal issues.
 
 
@@ -69,6 +73,17 @@ last_modified_date: Dec 14 2024 at 11:52 PM
 - **HUD and In-Game Display**: Detail the design of any on-screen information that players will see while playing (e.g., health bars, quest objectives, minimaps).
 - **Accessibility and Readability**: Ensure that UI design is accessible for all players, including those with visual impairments or other disabilities.
 - **UI Resources and Assets**: Specify any external resources used for UI elements, such as icons, fonts, or pre-made UI kits. Ensure proper credits are given and that all resources are legally compliant.
+
+### Mood Board
+**Concept Art and Visual Aids**: Include sketches, mock-ups, or sourced visuals to communicate ideas clearly.
+
+#### Overall Game Mood Board
+
+#### Level Design Mood Board
+
+#### Characters Mood Board
+
+#### UI Mood Board
 
 ---
 
