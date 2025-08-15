@@ -7,27 +7,34 @@ last_modified_date: Dec 14 2024 at 11:52 PM
 ---
 
 ## Table of Contents
-- [Interactions (Core Mechanics)](#interactions-core-mechanics)
+- [Core Mechanics and Interactions](#core-mechanics-and-interactions)
   - [Interaction Systems](#interaction-systems)
-    - [Combat or Interaction Systems (if main part of your game)](#combat-or-interaction-systems-if-main-part-of-your-game)
-    - [Player Actions and Controls](#player-actions-and-controls)
+    - [Player Actions and Controls (if applicable)](#player-actions-and-controls-if-applicable)
       - [Movements](#movements)
-      - [Jumping](#jumping)
-      - [Attacking](#attacking)
-      - [Interacting](#interacting)
+      - [Platforming Elements](#platforming-elements)
+      - [Combat Systems](#combat-systems)
       - [Special Abilities or Powers](#special-abilities-or-powers)
       - [Camera Controls](#camera-controls)
-      - [Additional Actions](#additional-actions)
       - [Cheats and Easter Egg](#cheats-and-easter-egg)
+      - [Non-physical interactions](#non-physical-interactions)
+      - [Platform-Specific Features](#platform-specific-features)
+      - [Narrative Systems](#narrative-systems)
+      - [Spawning system](#spawning-system)
+      - [Customization](#customization)
+      - [Crafting Systems](#crafting-systems)
+      - [Game Physics / World Physics](#game-physics--world-physics)
+      - [Progression Mechanics](#progression-mechanics)
+      - [Strategy Mechanics](#strategy-mechanics)
+      - [Exploration Mechanics](#exploration-mechanics)
+      - [Role-Playing Mechanics](#role-playing-mechanics)
+      - [Simulation Mechanics](#simulation-mechanics)
+      - [Multiplayer Features](#multiplayer-features)
   - [Interaction Structure](#interaction-structure)
-    - [Dialogue Structure](#dialogue-structure)
-    - [Choice and Consequence](#choice-and-consequence)
-    - [Artificial Intelligence (AI)](#artificial-intelligence-ai)
-    - [Resource Management](#resource-management)
+
 
 ---
 
-# Interactions (Core Mechanics)
+# Core Mechanics and Interactions
 This section covers features that may be optional or supplementary, depending on the focus of your game. If one of these mechanics is a central part of your game (e.g., crafting, multiplayer), please provide a summarized explanation of how it functions and contributes to the overall experience.
 
 ## Interaction Systems
