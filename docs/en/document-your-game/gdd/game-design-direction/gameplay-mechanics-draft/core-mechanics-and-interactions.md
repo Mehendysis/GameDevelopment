@@ -8,76 +8,67 @@ last_modified_date: Dec 14 2024 at 11:52 PM
 
 ## Table of Contents
 - [Core Mechanics and Interactions](#core-mechanics-and-interactions)
-  - [Interaction Systems](#interaction-systems)
-    - [Player Actions and Controls (if applicable)](#player-actions-and-controls-if-applicable)
-      - [Movements](#movements)
-      - [Platforming Elements](#platforming-elements)
-      - [Combat Systems](#combat-systems)
-      - [Special Abilities or Powers](#special-abilities-or-powers)
-      - [Camera Controls](#camera-controls)
-      - [Cheats and Easter Egg](#cheats-and-easter-egg)
-      - [Non-physical interactions](#non-physical-interactions)
-      - [Platform-Specific Features](#platform-specific-features)
-      - [Narrative Systems](#narrative-systems)
-      - [Spawning system](#spawning-system)
-      - [Customization](#customization)
-      - [Crafting Systems](#crafting-systems)
-      - [Game Physics / World Physics](#game-physics--world-physics)
-      - [Progression Mechanics](#progression-mechanics)
-      - [Strategy Mechanics](#strategy-mechanics)
-      - [Exploration Mechanics](#exploration-mechanics)
-      - [Role-Playing Mechanics](#role-playing-mechanics)
-      - [Simulation Mechanics](#simulation-mechanics)
-      - [Multiplayer Features](#multiplayer-features)
-  - [Interaction Structure](#interaction-structure)
-
+  - [Movements](#movements)
+  - [Platforming Elements](#platforming-elements)
+  - [Combat Systems](#combat-systems)
+  - [Special Abilities or Powers](#special-abilities-or-powers)
+  - [Camera Controls](#camera-controls)
+  - [Cheats and Easter Egg](#cheats-and-easter-egg)
+  - [Non-physical interactions](#non-physical-interactions)
+  - [Platform-Specific Features](#platform-specific-features)
+  - [Narrative Systems](#narrative-systems)
+  - [Spawning system](#spawning-system)
+  - [Customization](#customization)
+  - [Crafting Systems](#crafting-systems)
+  - [Game Physics / World Physics](#game-physics--world-physics)
+  - [Progression Mechanics](#progression-mechanics)
+  - [Strategy Mechanics](#strategy-mechanics)
+  - [Exploration Mechanics](#exploration-mechanics)
+  - [Role-Playing Mechanics](#role-playing-mechanics)
+  - [Simulation Mechanics](#simulation-mechanics)
+  - [Multiplayer Features](#multiplayer-features)
 
 ---
 
 # Core Mechanics and Interactions
-This section covers features that may be optional or supplementary, depending on the focus of your game. If one of these mechanics is a central part of your game (e.g., crafting, multiplayer), please provide a summarized explanation of how it functions and contributes to the overall experience.
+This section covers features that may be **optional** or supplementary, depending on the focus of your game. If one of these mechanics is a central part of your game (e.g., crafting, multiplayer), please provide a summarized explanation of how it functions and contributes to the overall experience.
 
-## Interaction Systems
-Short description of player-enemy interactions, or non-combat engagement like puzzles or diplomacy.
-
-### Player Actions and Controls (if applicable)
-
-#### Movements
+## Movements
 - Describe how players move their character within the game world (e.g., walking, running, crouching, jumping, climbing, swimming).
 - Specify input methods (e.g., WASD or arrow keys for keyboard, joystick for gamepad).
 - Include any special movement mechanics (e.g., dashing, double jump, wall run, wall jump, soaring, combo).
 - Outline how players make the character jump, including any additional control inputs for height or distance (e.g., holding the jump button for a higher jump).
 
-#### Platforming Elements
+## Platforming Elements
 - Jump height and distance parameters
 - Platform types and interactions
 - Timing-based challenges
 - Environmental hazards and obstacles
 
-#### Combat Systems
+## Combat Systems
 - Summarize how players perform attacks, whether melee (e.g., sword slashing) or ranged (e.g., shooting), Blocking, parrying, or defensive mechanics
 - Describe the controls for initiating attacks, including any combos or special attack mechanics.
 - Include input variations based on different weapons or abilities (e.g., pressing a different button for a ranged weapon versus a melee weapon).
 - Damage calculation and hit detection.
 - Special combat abilities or power moves.
 
-#### Special Abilities or Powers
+## Special Abilities or Powers
 - List any special abilities the character has (e.g., magic spells, stealth mode, shields).
 - Describe how these abilities are activated (e.g., holding a button or selecting from a menu).
 - Summarize any cooldowns, resource management, or energy systems associated with these abilities.
 
-#### Camera Controls
+## Camera Controls
 - If applicable, explain how players control the camera (e.g., using the mouse or right joystick).
 - Outline whether the camera is fixed, first-person, or third-person, and how it responds to player movement or actions.
 
-#### Cheats and Easter Egg
+## Cheats and Easter Egg
 - Mention any cheat codes or Easter eggs that players can discover, enhancing replayability or adding fun, non-essential content.
 
-#### Non-physical interactions
+## Non-physical interactions
 - Define the actions for non-physical (no physics engin involved) interactions with objects or NPCs (e.g., pressing a button to open doors, talk to NPCs, pick up items).
 - Specify any contextual interaction (e.g., pressing a button when near a specific object to trigger a unique action).
 
-#### Platform-Specific Features
+## Platform-Specific Features
 
 **Use of Unique Hardware Capabilities**:
 Detail features utilizing platform-specific tools (e.g., motion controls, haptics, touch screen).
@@ -87,7 +78,7 @@ Explain how players interact across devices or systems.
 
 ---
 
-#### Narrative Systems
+## Narrative Systems
 **Dialogue Structure**
 Specify how dialogue branching structures are designed and implemented (e.g., as dialogue trees, state machines, or scriptable objects). Include outlines on input methods for interacting with dialogue (e.g., selection wheels or text-based menus). Mention how the system accounts for context, such as dynamic responses based on player choices or world states.
 
@@ -99,7 +90,7 @@ Explain the framework for mapping narrative decisions to gameplay outcomes (e.g.
 
 ---
 
-#### Spawning system
+## Spawning system
 
 **Mob and NPC Spawning**
 - **NPC Spawning Systems**: Specify the system for dynamic NPC generation, whether it’s procedural, event-based, or rule-driven. Outline how NPCs will spawn based on world conditions (e.g., player progression, area-specific events) and the logic for NPC placement, behavior, and interaction.
@@ -116,7 +107,7 @@ Describe if NPCs will move based on pathfinding, avoid obstacles, or make combat
 
 ---
 
-#### Customization
+## Customization
 This section details player personalization options, procedural world adjustments, and crafting mechanics. It provides a foundation for creating systems that enhance player agency and gameplay depth.
 
 **Player Customization**
@@ -126,7 +117,7 @@ This section details player personalization options, procedural world adjustment
 
 ---
 
-#### Crafting Systems
+## Crafting Systems
 
 - **Core Crafting Mechanics**: Outline how players collect resources to craft items, weapons, tools, or structures.
 - **Crafting Recipes**: Include details on how players learn recipes (e.g., through progression, discovery, or blueprints).
@@ -136,7 +127,7 @@ This section details player personalization options, procedural world adjustment
 
 ---
 
-#### Game Physics / World Physics
+## Game Physics / World Physics
 
 **Physics-Based Interactions**
 - Grabbing and throwing mechanics
@@ -158,7 +149,7 @@ Discuss how the balance of game physics will ensure a fair and engaging experien
 
 ---
 
-#### Progression Mechanics
+## Progression Mechanics
 
 **Experience and Leveling**:
 Detail the character advancement system:
@@ -190,7 +181,7 @@ Specify progress tracking mechanics:
 
 ---
 
-#### Strategy Mechanics
+## Strategy Mechanics
 **Resource Management**:
 Define systems for handling game resources:
 - Resource types and their properties
@@ -221,7 +212,7 @@ Outline systems for gathering and managing game elements:
 
 ---
 
-#### Exploration Mechanics
+## Exploration Mechanics
 **World Navigation**:
 Summarize systems for traversing the game world:
 - Movement modes and vehicles
@@ -252,7 +243,7 @@ Specify systems for world discovery:
 
 ---
 
-#### Role-Playing Mechanics
+## Role-Playing Mechanics
 
 **Character Development**:
 Summarize character customization systems:
@@ -277,7 +268,7 @@ Specify character progression mechanics:
 
 ---
 
-#### Simulation Mechanics
+## Simulation Mechanics
 
 **Economic Systems**:
 Outline resource management mechanics:
@@ -302,7 +293,7 @@ Specify vehicle/tool control systems:
 
 ---
 
-#### Multiplayer Features
+## Multiplayer Features
 
 **Multiplayer Modes**:
 Define the different types of multiplayer gameplay, such as:
@@ -341,10 +332,3 @@ Explain how multiplayer differs from solo-play in the following areas:
 - **Characters/Units**: Whether the multiplayer mode introduces new characters/units or players control existing ones in a new context.
 - **Gameplay Elements**: Unique mechanics in multiplayer (e.g., co-op mechanics, competitive features, shared objectives).
 - **AI Adjustments**: How AI behaves differently in multiplayer (e.g., AI might be less aggressive or have different priorities compared to solo play).
-
----
-
-## Interaction Structure
-
-
-
