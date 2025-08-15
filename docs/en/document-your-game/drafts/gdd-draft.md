@@ -11,8 +11,7 @@ last_modified_date: Dec 14 2024 at 11:52 PM
   - [Starting your doc](#starting-your-doc)
   - [Game Overview](#game-overview)
   - [Game Design Direction](#game-design-direction)
-    - [Gameplay Mecanics](#gameplay-mecanics)
-    - [Gameplay Mechanics (if applicable)](#gameplay-mechanics-if-applicable)
+    - [Gameplay Mechanics](#gameplay-mechanics)
 
 ---
 
