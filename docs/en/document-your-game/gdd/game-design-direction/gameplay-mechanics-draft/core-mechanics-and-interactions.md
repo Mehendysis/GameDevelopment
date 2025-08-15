@@ -2,7 +2,7 @@
 title: Core Mechanics and Interactions
 parent: Gameplay Mechanics
 nav_order: 3
-permalink: /GDD/game-design-direction/gameplay-mechanics/interactions/
+permalink: /GDD/game-design-direction/gameplay-mechanics/core-mechanics-and-interactions/
 last_modified_date: Dec 14 2024 at 11:52 PM
 ---
 
