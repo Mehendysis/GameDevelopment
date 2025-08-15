@@ -65,7 +65,7 @@ This section covers features that may be **optional** or supplementary, dependin
 - Mention any cheat codes or Easter eggs that players can discover, enhancing replayability or adding fun, non-essential content.
 
 ## Non-physical interactions
-- Define the actions for non-physical (no physics engin involved) interactions with objects or NPCs (e.g., pressing a button to open doors, talk to NPCs, pick up items).
+- Define the actions for non-physical (no physics engine involved) interactions with objects or NPCs (e.g., pressing a button to open doors, talk to NPCs, pick up items).
 - Specify any contextual interaction (e.g., pressing a button when near a specific object to trigger a unique action).
 
 ## Platform-Specific Features
