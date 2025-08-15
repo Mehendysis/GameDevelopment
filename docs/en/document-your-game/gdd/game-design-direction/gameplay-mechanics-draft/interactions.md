@@ -7,7 +7,7 @@ last_modified_date: Dec 14 2024 at 11:52 PM
 ---
 
 ## Table of Contents
-- [Interactions](#interactions-core-mechanics)
+- [Interactions (Core Mechanics)](#interactions-core-mechanics)
   - [Interaction Systems](#interaction-systems)
     - [Combat or Interaction Systems (if main part of your game)](#combat-or-interaction-systems-if-main-part-of-your-game)
     - [Player Actions and Controls](#player-actions-and-controls)
@@ -28,31 +28,42 @@ last_modified_date: Dec 14 2024 at 11:52 PM
 ---
 
 # Interactions (Core Mechanics)
+This section covers features that may be optional or supplementary, depending on the focus of your game. If one of these mechanics is a central part of your game (e.g., crafting, multiplayer), please provide a detailed explanation of how it functions and contributes to the overall experience.
 
 ## Interaction Systems
-
-### Combat or Interaction Systems (if main part of your game)
 Short description of player-enemy interactions, or non-combat engagement like puzzles or diplomacy.
 
-### Player Actions and Controls
+### Player Actions and Controls (if applicable)
 
 #### Movements
-- Describe how players move their character within the game world (e.g., walking, running, crouching).
+- Describe how players move their character within the game world (e.g., walking, running, crouching, jumping, climbing, swimming).
 - Specify input methods (e.g., WASD or arrow keys for keyboard, joystick for gamepad).
-- Include any special movement mechanics (e.g., climbing, sliding, swimming, dashing).
-
-#### Jumping
+- Include any special movement mechanics (e.g., dashing, double jump, wall run, wall jump, soaring, combo).
 - Outline how players make the character jump, including any additional control inputs for height or distance (e.g., holding the jump button for a higher jump).
-- Specify any unique mechanics (e.g., double jump, wall jumping).
 
-#### Attacking
-- Detail how players perform attacks, whether melee (e.g., sword slashing) or ranged (e.g., shooting).
+#### Platforming Elements
+- Jump height and distance parameters
+- Platform types and interactions
+- Timing-based challenges
+- Environmental hazards and obstacles
+
+#### Combat Systems
+- Detail how players perform attacks, whether melee (e.g., sword slashing) or ranged (e.g., shooting), Blocking, parrying, or defensive mechanics
 - Describe the controls for initiating attacks, including any combos or special attack mechanics.
 - Include input variations based on different weapons or abilities (e.g., pressing a different button for a ranged weapon versus a melee weapon).
+- Outline the physics of each aspect of the combat (e.g., projectile physics, blunt hit physic and target reaction).
+- Damage calculation and hit detection.
+- Special combat abilities or power moves.
 
 #### Interacting
-- Define the actions for interacting with objects or NPCs (e.g., pressing a button to open doors, talk to NPCs, pick up items).
+- Define the actions for non-physical interactions with objects or NPCs (e.g., pressing a button to open doors, talk to NPCs, pick up items).
 - Specify any contextual interaction (e.g., pressing a button when near a specific object to trigger a unique action).
+
+#### Physics-Based Interactions
+- Grabbing and throwing mechanics
+- Weight and force calculations
+- Object behavior and reactions
+- Environmental destruction or deformation
 
 #### Special Abilities or Powers
 - List any special abilities the character has (e.g., magic spells, stealth mode, shields).
